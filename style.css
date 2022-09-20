@@ -1,0 +1,32 @@
+body{
+    background: #eeedec;
+    letter-spacing: 0.2em;
+    font-size: 0.8em;
+  }
+  .container{
+    max-width: 400px ;
+  }
+
+  .icon{
+    position: relative;
+    top: -50px;
+    border-radius: 50%;
+    width: 100px;
+    margin-bottom: -50px;
+  }
+
+ .button {
+  background-color: #48494977;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+.button5 {border-radius: 30%;}
+
+   /* background-image: linear-gradient(to right, rgba(18, 18, 18, 0), rgb(44, 42, 42));
+   background-image: linear-gradient(to right, gray, rgb(28, 27, 27)  */
